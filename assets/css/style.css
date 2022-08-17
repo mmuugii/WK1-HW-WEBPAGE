@@ -74,6 +74,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
+/*The is the end of the main section*/
+
 /*this is for the aside section*/
 aside {
     margin-right: 20px;
@@ -85,7 +87,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*this is for the aside section*/
+
 .aside-benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -119,7 +121,9 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*this is for the aside section*/
 
+/*this is for the footer section*/
 footer {
     padding: 30px;
     clear: both;
@@ -130,3 +134,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*this is for the footer section*/
